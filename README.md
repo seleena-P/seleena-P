@@ -1,8 +1,16 @@
-<h1 align="center">Hi 👋, I'm Seleena</h1>
+<h1 align="center">Hi there👋, Seleena here</h1>
 <h3 align="center">This girl codes</h3>
 
-- 📫 How to reach me **seleena.pope@gmail.com**
-
+*Welcome to my GitHub profile!*
+- I'm a software enthusiast with a passion for innovation and coding.
+- I specialize in turning ideas into elegant and functional solutions.
+- My skillset includes expertise in multiple programming languages and frameworks.
+- Let's collaborate and explore new technologies to create something remarkable together!
+<br>
+<br>
+<ul> <li>📫 How to reach me <b>seleena.pope@gmail.com</b></li>
+<li>💻 Ask me about C , Cpp , Java</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/b8/63/a0/b863a0a5b78da455d8ac76d655507b4f.jpg">
 <p align="left">
